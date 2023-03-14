@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\5 elave eleme\bin\Debug\net6.0\5 elave eleme.exe
+C:\Users\user\source\repos\5 elave eleme\bin\Debug\net6.0\5 elave eleme.deps.json
+C:\Users\user\source\repos\5 elave eleme\bin\Debug\net6.0\5 elave eleme.runtimeconfig.json
+C:\Users\user\source\repos\5 elave eleme\bin\Debug\net6.0\5 elave eleme.dll
+C:\Users\user\source\repos\5 elave eleme\bin\Debug\net6.0\5 elave eleme.pdb
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.AssemblyInfo.cs
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.dll
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\refint\5 elave eleme.dll
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.pdb
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\5 elave eleme.genruntimeconfig.cache
+C:\Users\user\source\repos\5 elave eleme\obj\Debug\net6.0\ref\5 elave eleme.dll
